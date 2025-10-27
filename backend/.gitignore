@@ -1,0 +1,24 @@
+.env
+# ------------------------
+# MERN Stack (Node + Express + React + TypeScript)
+# ------------------------
+
+#######################
+# Node / Backend
+#######################
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+coverage/
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+

@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/config/db.ts","./src/config/mailer.ts","./src/controllers/applicationcontroller.ts","./src/controllers/usercontroller.ts","./src/middleware/authmiddleware.ts","./src/models/application.ts","./src/models/user.ts","./src/routes/applicationroutes.ts","./src/routes/userroutes.ts","./src/utils/scheduler.ts"],"version":"5.9.3"}
